@@ -8,7 +8,7 @@ Tempo de preparo: 10 minutos + 1 hora no forno
 
 Esta é uma dessas receitas da categoria com-o-que-tinha-na-geladeira. Não precisa comprar as amêndoas só para ela. Mas o toque do coco e do curry é fundamental. Ficou uma delícia.
 
-**Ingredientes**
+### **Ingredientes**
 
 500 g de abóbora japonesa, sem casca, em cubos
 ¼ xícara (chá) de azeite
@@ -20,7 +20,7 @@ Esta é uma dessas receitas da categoria com-o-que-tinha-na-geladeira. Não prec
 sal marinho a gosto
 pimenta-do-reino, moída na hora, a gosto
 
-**Modo de preparo**
+### **Modo de preparo**
 
 1. Preaqueça o forno a 180 0C (temperatura média). Numa tigelinha, bata com um garfo o azeite com o curry.
 
